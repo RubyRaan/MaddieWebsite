@@ -1,0 +1,19 @@
+body{
+    background-image: url(maddie_background_painting.jpg);
+    background-size: 600px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+
+.nav_tab{background-color: #87CEEB;
+    padding: 50px 150px;
+    border: none;
+    border-radius: 5px;
+    font-size: 30px;}
+
+.tabs button:hover {background-color: blueviolet;}
+
+#maddie_pic {border-radius: 50%;}
+
+h1,h2 {background-color: pink;}
